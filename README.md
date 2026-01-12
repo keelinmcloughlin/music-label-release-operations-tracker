@@ -33,6 +33,13 @@ The tracker is built to surface risks early (e.g. upcoming releases not yet deli
 
 ---
 
+## Time-Based Logic Note
+This tracker was finalized on **January 12, 2026**. Several KPIs and conditional formatting rules are driven by dynamic date logic (e.g., highlighting releases due within the next 7 or 30 days).
+
+As time passes, some date-based indicators may appear differently than shown in the screenshots. This behavior is intentional and reflects how the tracker would function in an active, real-world release pipeline.
+
+---
+
 ## Preview: Conditional Formatting & KPIs
 
 This tracker relies on Excel formulas and conditional formatting to surface release readiness and delivery risk at a glance.
