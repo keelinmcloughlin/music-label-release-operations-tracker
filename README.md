@@ -38,13 +38,13 @@ This tracker relies on Excel formulas and conditional formatting to surface rele
 Because GitHub does not render Excel formatting directly, screenshots are included below to illustrate the visual logic used in the workbook.
 
 ### Release Schedule
-![Release_Schedule](screenshots/release_schedule.jpeg)
+![Release_Schedule](screenshots/release_schedule.jpg)
 
 ### Metadata and Assets
-![Metadata_and_Assets](screenshots/metadata_and_assets.jpeg)
+![Metadata_and_Assets](screenshots/metadata_and_assets.jpg)
 
 ### Delivery and Checklist
-![Delivery_and_Checklist](screenshots/delivery_and_checklist.jpeg)
+![Delivery_and_Checklist](screenshots/delivery_and_checklist.jpg)
 
 ---
 
