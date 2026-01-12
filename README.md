@@ -31,6 +31,23 @@ The tracker is built to surface risks early (e.g. upcoming releases not yet deli
 
 ---
 
+## Preview: Conditional Formatting & KPIs
+
+This tracker relies on Excel formulas and conditional formatting to surface release readiness and delivery risk at a glance.
+
+Because GitHub does not render Excel formatting directly, screenshots are included below to illustrate the visual logic used in the workbook.
+
+### Release Schedule
+![Release_Schedule](screenshots/release_schedule.png)
+
+### Metadata and Assets
+![Metadata_and_Assets](screenshots/metadata_and_assets.png)
+
+### Delivery and Checklist
+![Delivery_and_Checklist](screenshots/delivery_and_checklist.png)
+
+---
+
 ## Tools Used
 - Microsoft Excel  
   - Advanced formulas (COUNTIFS, IF, AND, date logic)
