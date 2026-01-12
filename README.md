@@ -5,6 +5,8 @@ This project is an Excel-based release management tool designed to model real-wo
 
 The tracker is built to surface risks early (e.g. upcoming releases not yet delivered) and provide a clear, at-a-glance view of release readiness for label, A&R, and operations teams.
 
+[⬇️ Download the Excel Tracker](https://github.com/keelinmcloughlin/music-label-release-operations-tracker/raw/main/Music_Label_Release_Schedule_And_Delivery_Tracker.xlsx)
+
 ---
 
 ## What This Tracker Covers
